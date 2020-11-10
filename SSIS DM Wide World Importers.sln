@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS DM Wide World Importers", "SSIS DM Wide World Importers\SSIS DM Wide World Importers.dtproj", "{A92F1A3F-7EB0-459C-BDBC-000A26CBCA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92F1A3F-7EB0-459C-BDBC-000A26CBCA46}.Development|Default.ActiveCfg = Development
+		{A92F1A3F-7EB0-459C-BDBC-000A26CBCA46}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAE26BC-30EF-4CC0-B7F8-1A5A1E9B8E9B}
+	EndGlobalSection
+EndGlobal
